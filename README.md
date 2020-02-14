@@ -16,3 +16,8 @@ Election data notes:
 * 2016 Presidential data, plus 2016 election data for other contests for AK, AR, AZ, CA, CO, DE, FL, GA, HI, IA, IL, KS, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NM, NV, OK, OR, RI, SC, TN, TX, UT, VA, VT, WA, WI, WY: Voting and Election Science Team, 2018, "2016 Precinct-Level Election Results", Harvard Dataverse.
 * 2017/2018 election data for AZ, IA, ME, MT, ND, OK, RI, VA, VT, WI: Voting and Election Science Team, 2019, "2018 Precinct-Level Election Results", Harvard Dataverse.
 * 2018 election data for NV: Open Precincts (Princeton Gerrymandering Project).
+
+## Logs
+Two log files are provided for each state. The census log file lists the percentage of population decline in any VTDs where population decreased between 2010 and 2018, along with total population for 2010 and 2018. (Note the 2018 population is the 5-year estimate and tends to be below the 1-year 2018 estimate.)
+
+The election log file shows the total vote counts for 2008 President and, if available, 2016 President and 2018 Senate. These can be helpful to compare to other sources to sanity check the disaggregation/aggregation process. See Disaggregation.md for notes on that process.
