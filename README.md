@@ -1,5 +1,5 @@
 # vtd_data
-This repository contains Census and Election Data, aggregated to 2010 voting tabulation district (VTD) geometry, as CSV. (Note: for the following states we use 2010 Block Group geometry instead of VTD: CA, MT, OR, RI.)
+This repository contains Census and Election Data, aggregated to 2010 voting tabulation district (VTD) geometry, as CSV. (Note: for the following states we use 2010 Block Group geometry instead of VTD: CA, MT, OR, RI.) Files are organized by geometry (2010_VTD) and then by state.
 
 The census files contain 2010 demographic data, both total population and voting age population, and 2018 American Community Survey (5-year) population estimates (total population only). All of the data is orginally from the U.S. Census Bureau. The 2018 ACS data was aggregated to 2010 VTDs by Dave's Redistricting.
 
