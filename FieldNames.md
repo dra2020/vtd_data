@@ -1,7 +1,7 @@
 ## Field Names in CSV files
 
 The CSV field names are constructed as follows:
-* For Census CSVs, <category>_<year>_<set>, where 
+* For Census CSVs, category_year_set, where 
     * category = 
         * Tot = Total
         * Wh = White alone, not Hispanic
@@ -19,7 +19,7 @@ The CSV field names are constructed as follows:
         * tot = Total population
         * vap = voting age population
 
-* For Election CSVs, <party>_<year>_<contest>, where
+* For Election CSVs, party_year_contest, where
     * party =
         * Tot = total votes of all parties
         * Dem = Democratic Party

@@ -12,7 +12,7 @@ Election data notes:
 * 2008 Presidential election data for IN, NC, NM, TX: Stephen Ansolabehere, Jonathan Rodden. 2010 Census Shapefile and Precinct-Level Election Data. Release 2011.
 * 2008 Presidential election data for AK, AL, AR, AZ, CA, CT, DC, DE, FL, GA, HI, IA, ID, IL, KS, KY, LA, MA, MD, ME, MI, MN, MS, MO, MT, ND, NE, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY: Steve Gerontakis with assistance by John Mifflin.
 * 2008 Presidential data for CO: Tyler Chafee.
-* 2012 Presidential results for KS: Voting and Election Science Team, 2019, "2012 Precinct-Level Election Results", Harvard Dataverse.
+* 2012 Presidential data for KS: Voting and Election Science Team, 2019, "2012 Precinct-Level Election Results", Harvard Dataverse.
 * 2016 Presidential data, plus 2016 election data for other contests for AK, AR, AZ, CA, CO, DE, FL, GA, HI, IA, IL, KS, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NM, NV, OK, OR, RI, SC, TN, TX, UT, VA, VT, WA, WI, WY: Voting and Election Science Team, 2018, "2016 Precinct-Level Election Results", Harvard Dataverse.
 * 2017/2018 election data for AZ, IA, ME, MT, ND, OK, RI, VA, VT, WI: Voting and Election Science Team, 2019, "2018 Precinct-Level Election Results", Harvard Dataverse.
 * 2018 election data for NV: Open Precincts (Princeton Gerrymandering Project).
