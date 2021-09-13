@@ -25,7 +25,8 @@ The CSV field names are constructed as follows:
         * PacC = Native Hawaiian and Pacific Islander alone or in combination with other races, including Hispanic
     * set =
         * tot = Total population
-        * vap = voting age population
+        * vap = Voting Age population
+        * adjtot = Total (Adjusted) population [with adjusted prisoner population]
 
 * For Election CSVs, party_year_contest, where
     * party =
