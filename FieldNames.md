@@ -28,15 +28,19 @@ The CSV field names are constructed as follows:
         * vap = Voting Age population
         * adjtot = Total (Adjusted) population [with adjusted prisoner population]
 
-* For Election CSVs, party_year_contest, where
+* For Election CSVs, party_year_contest[_suffix], where
     * party =
         * Tot = total votes of all parties
-        * Dem = Democratic Party votes
-        * Rep = Republican Party votes
+        * D = Democratic Party votes
+        * R = Republican Party votes
     * contest =
         * pres = President
         * sen = US Senate
         * gov = Governor
         * ltg = Lt. Governor
         * ag = Attorney General
+    * suffix =
+        * roff = Runoff
+        * spec = Special
+        * sproff = Special Runoff
 
