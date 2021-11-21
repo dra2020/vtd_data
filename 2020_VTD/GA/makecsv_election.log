@@ -1,0 +1,32 @@
+Make CSV: GA (election)
+Row count: 2698
+R_2018_gov: 1978408
+D_2018_gov: 1923685
+Tot_2018_gov: 3939328
+R_2018_ag: 1981563
+D_2018_ag: 1880807
+Tot_2018_ag: 3862370
+R_2018_ltg: 1951738
+D_2018_ltg: 1828566
+Tot_2018_ltg: 3780304
+R_2020_pres: 2461837
+D_2020_pres: 2474507
+Tot_2020_pres: 4998482
+R_2020_sen: 2462617
+D_2020_sen: 2374519
+Tot_2020_sen: 4952175
+R_2020_sen_spec: 2426120
+D_2020_sen_spec: 2378312
+Tot_2020_sen_spec: 4914361
+R_2021_sen_roff: 2214979
+D_2021_sen_roff: 2269923
+Tot_2021_sen_roff: 4484902
+R_2021_sen_sproff: 2195841
+D_2021_sen_sproff: 2289113
+Tot_2021_sen_sproff: 4484954
+R_2016_pres: 2089104
+D_2016_pres: 1877963
+Tot_2016_pres: 4092373
+R_2016_sen: 2135806
+D_2016_sen: 1599726
+Tot_2016_sen: 3897792
