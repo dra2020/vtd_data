@@ -28,9 +28,9 @@ A number of people and organizations obtained, cleaned and aggeregated election 
 * 2008 Presidential data for AK, AL, AR, AZ, CA, CT, DC, DE, FL, GA, HI, IA, ID, IL, KS, KY, LA, MA, MD, ME, MI, MN, MS, MO, MT, ND, NE, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY: Steve Gerontakis with assistance by John Mifflin.
 * 2008 Presidential data for CO: Tyler Chafee.
 ### 2020 and 2010 Shapes
-* All election data, except as noted below: Voting and Election Science Team (https://dataverse.harvard.edu/dataverse/electionscience).
+* All election data, except as noted below: Voting and Election Science Team (https://dataverse.harvard.edu/dataverse/electionscience). This data is available under the Creative Commons Attribution license (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/)
 *
-* 2014 data for MA, MN, NC, TX: Metric Geometry and Gerrymandering Group (https://mggg.org/).
+* 2014 data for MA, MN, NC, TX: Metric Geometry and Gerrymandering Group (https://mggg.org/). (MGGG data available under Open Database License: http://opendatacommons.org/licenses/odbl/1.0/)
 * 2016 data for OH (2010 shapes only): Metric Geometry and Gerrymandering Group.
 * 2018 data for AR: Open Precincts (Princeton Gerrymandering Project) (https://openprecincts.org/).
 * 2018 data for NV (2010 shapes only): Open Precincts (Princeton Gerrymandering Project).
