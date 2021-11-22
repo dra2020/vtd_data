@@ -31,11 +31,14 @@ A number of people and organizations obtained, cleaned and aggeregated election 
 * All election data, except as noted below: Voting and Election Science Team (https://dataverse.harvard.edu/dataverse/electionscience).
 *
 * 2014 data for MA, MN, NC, TX: Metric Geometry and Gerrymandering Group (https://mggg.org/).
-* 2016 data for OH: Metric Geometry and Gerrymandering Group.
-* 2018 data for AR, NV: Open Precincts (Princeton Gerrymandering Project) (https://openprecincts.org/).
-* 2018 data for CO, OR: Metric Geometry and Gerrymandering Group (via Princeton Gerrymandering Project).
+* 2016 data for OH (2010 shapes only): Metric Geometry and Gerrymandering Group.
+* 2018 data for AR: Open Precincts (Princeton Gerrymandering Project) (https://openprecincts.org/).
+* 2018 data for NV (2010 shapes only): Open Precincts (Princeton Gerrymandering Project) (https://openprecincts.org/).
+* 2018 data for CO, OR (2010 shapes only): Metric Geometry and Gerrymandering Group (via Princeton Gerrymandering Project).
 * 2018 data for WA: MIT Election Data Science Lab (via Princeton Gerrymandering Project).
-* All California data, except 2016 with 2010 shapes: California Statewide Database.
-
+* 2018 and 2020 data for CA: California Statewide Database.
+* 2016 data for CA (2010 shapes only): California Statewide Database
+* 
+* 2010 shapes have no 2020 election data and no other election data obtained after 2020 shapes were published by the Census Bureau.
 ## Logs
 Two log files are provided for each state. The census log file lists the total population and VAP/CVAP population for each year. The election log file shows the total vote counts for some elections. These can be helpful to compare to other sources to sanity check the data.
