@@ -21,19 +21,24 @@ All data was disaggregated to 2020 census blocks by Dave's Redistricting using t
 The Census provides CVAP estimates with the 5-year ACS data, but those estimates don't have the calculations for the race combinations (e.g. Black Alone or in combination with other races). The 2010 Census data (P.L. 94-171) has those combinations for their Total and VAP data. For our CVAP data we estimate the combinations by adding certain fields (e.g. Black Alone + Black and White + Black and Native American), but we do not use the "Remainder of Two or More Races" field, so our estimates tend to underestimate the combinations, particularly Asian and Pacific.
 
 ## Election Data
-A number of people and organizations obtained, cleaned and aggeregated election data to produce precinct-level election data we use. The 2014-2020 data was presented as shapefiles or geojson files, using the precinct/VTD geography obtained from the individual states for those years. The 2008 data was presented already aggregated to 2010 VTDs.
+A number of people and organizations obtained, cleaned and aggeregated election data to produce the precinct-level election data we use. The 2014-2020 data was presented as shapefiles or geojson files, using the precinct/VTD geography obtained from the individual states for those years. The 2008 data was presented already aggregated to 2010 VTDs.
 
-Election data notes:
+### 2010 Shapes Only
 * 2008 Presidential data for IN, NC, NM, TX: Stephen Ansolabehere, Jonathan Rodden. 2010 Census Shapefile and Precinct-Level Election Data. Release 2011.
 * 2008 Presidential data for AK, AL, AR, AZ, CA, CT, DC, DE, FL, GA, HI, IA, ID, IL, KS, KY, LA, MA, MD, ME, MI, MN, MS, MO, MT, ND, NE, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY: Steve Gerontakis with assistance by John Mifflin.
 * 2008 Presidential data for CO: Tyler Chafee.
-* 2014 data for MA, MN, NC, TX: Metric Geometry and Gerrymandering Group (https://mggg.org/).
-* 2016 data for OH: Metric Geometry and Gerrymandering Group.
-* 2018 data for AR, NV: Open Precincts (Princeton Gerrymandering Project) (https://openprecincts.org/).
-* 2018 data for CO, OR: Metric Geometry and Gerrymandering Group (via Princeton Gerrymandering Project).
+### 2020 and 2010 Shapes
+* All election data, except as noted below: Voting and Election Science Team (https://dataverse.harvard.edu/dataverse/electionscience). This data is available under the Creative Commons Attribution license (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/)
+*
+* 2014 data for MA, MN, NC, TX: Metric Geometry and Gerrymandering Group (https://mggg.org/). (MGGG data available under Open Database License: http://opendatacommons.org/licenses/odbl/1.0/)
+* 2016 data for OH (2010 shapes only): Metric Geometry and Gerrymandering Group.
+* 2018 data for AR: Open Precincts (Princeton Gerrymandering Project) (https://openprecincts.org/).
+* 2018 data for NV (2010 shapes only): Open Precincts (Princeton Gerrymandering Project).
+* 2018 data for CO, OR (2010 shapes only): Metric Geometry and Gerrymandering Group (via Princeton Gerrymandering Project).
 * 2018 data for WA: MIT Election Data Science Lab (via Princeton Gerrymandering Project).
-* All California data, except 2016 with 2010 shapes: California Statewide Database.
-* All other election data: Voting and Election Science Team (https://dataverse.harvard.edu/dataverse/electionscience).
-
+* 2018 and 2020 data for CA: California Statewide Database.
+* 2016 data for CA (2010 shapes only): California Statewide Database.
+* 
+* 2010 shapes have no 2020 election data and no other election data obtained after 2020 shapes were published by the Census Bureau.
 ## Logs
 Two log files are provided for each state. The census log file lists the total population and VAP/CVAP population for each year. The election log file shows the total vote counts for some elections. These can be helpful to compare to other sources to sanity check the data.
