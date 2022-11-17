@@ -1,11 +1,11 @@
 Make CSV: SC (election)
 Row count: 2268
-D_2016_pres: 853970
-R_2016_pres: 1153920
-Tot_2016_pres: 2102598
-D_2016_sen: 755689
-R_2016_sen: 1240430
-Tot_2016_sen: 2049470
+R_2016_pres: 1155389
+D_2016_pres: 855373
+Tot_2016_pres: 2103027
+R_2016_sen: 1241609
+D_2016_sen: 757022
+Tot_2016_sen: 2049893
 R_2020_pres: 1385103
 D_2020_pres: 1091541
 Tot_2020_pres: 2513329

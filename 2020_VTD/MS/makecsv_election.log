@@ -1,2 +1,29 @@
 Make CSV: MS (election)
-Row count: 0
+Row count: 1834
+R_2016_pres: 700714
+D_2016_pres: 485131
+Tot_2016_pres: 1209357
+R_2019_gov: 459396
+D_2019_gov: 414368
+Tot_2019_gov: 884911
+R_2019_ag: 507468
+D_2019_ag: 370068
+Tot_2019_ag: 877536
+R_2019_ltg: 524757
+D_2019_ltg: 349627
+Tot_2019_ltg: 874384
+R_2020_pres: 756764
+D_2020_pres: 539398
+Tot_2020_pres: 1313759
+R_2020_sen: 709511
+D_2020_sen: 578691
+Tot_2020_sen: 1311354
+R_2018_sen: 547619
+D_2018_sen: 369567
+Tot_2018_sen: 936215
+R_2018_sen_roff: 486769
+D_2018_sen_roff: 420819
+Tot_2018_sen_roff: 907588
+R_2018_sen_spec: 544873
+D_2018_sen_spec: 400594
+Tot_2018_sen_spec: 945467
