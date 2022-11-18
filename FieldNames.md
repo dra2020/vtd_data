@@ -23,10 +23,19 @@ The CSV field names are constructed as follows:
         * NatC = American Indian and Alaska native alone or in combination with other races, including Hispanic
         * AsnC = Asian alone or in combination with other races, including Hispanic
         * PacC = Native Hawaiian and Pacific Islander alone or in combination with other races, including Hispanic
+        * Bl = Black alone, not Hispanic
+        * Nat = American Indian and Alaska native alone, not Hispanic
+        * Asn = Asian alone, not Hispanic
+        * Pac = Native Hawaiian and Pacific Islander alone, not Hispanic
+        * OthAl = Other race alone, not Hispanic
+        * Mix = Two or more races, not Hispanic
     * set =
-        * tot = Total population
-        * vap = Voting Age population
+        * tot = Total population from Census
+        * acstot = Total population from 5-year ACS
         * adjtot = Total (Adjusted) population [with adjusted prisoner population]
+        * vap = Voting Age population
+        * nhvap = Voting Age population using race alone, not Hispanic data
+        * cvap = Citizen Voting Age population from 5-year ACS
 
 * For Election CSVs, party_year_contest[_suffix], where
     * party =

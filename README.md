@@ -11,9 +11,9 @@ The election files contain election results from 2008 and 2016-2018. The origina
 ## 2020 Shapes
 For the states CA, HI, OR and WV we use 2020 Block Groups instead of VTDs. Also, for ME, county subdivisions were added for counties with no VTDs.
 
-The census files contain 2010 demographic data, both total population and voting age population, and 2018 and 2019 American Community Survey (5-year) population estimates and citizen voting age population (CVAP) estimates. All of the data is orginally from the U.S. Census Bureau.
+The census files contain 2010 demographic data, both total population and voting age population, and 2018, 2019 and 2020 American Community Survey (5-year) population estimates and citizen voting age population (CVAP) estimates. All of the data is orginally from the U.S. Census Bureau.
 
-The election files will be uploaded for each state after we have 2020 election data for that state.
+We have election data through 2021 for each state.
 
 All data was disaggregated to 2020 census blocks by Dave's Redistricting using the method by Voting and Election Science Team (except 2019 ACS was already done by VEST). (Amos, Brian, 2021, "2020 Census Block Crosswalk Data", https://doi.org/10.7910/DVN/T9VMJO, Harvard Dataverse, V2)
 
@@ -32,12 +32,11 @@ A number of people and organizations obtained, cleaned and aggeregated election 
 *
 * 2014 data for MA, MN, NC, TX: Metric Geometry and Gerrymandering Group (https://mggg.org/). (MGGG data available under Open Database License: http://opendatacommons.org/licenses/odbl/1.0/)
 * 2016 data for OH (2010 shapes only): Metric Geometry and Gerrymandering Group.
-* 2018 data for AR: Open Precincts (Princeton Gerrymandering Project) (https://openprecincts.org/).
+* 2018 data for AR (2010 shapes only): Open Precincts (Princeton Gerrymandering Project) (https://openprecincts.org/).
 * 2018 data for NV (2010 shapes only): Open Precincts (Princeton Gerrymandering Project).
 * 2018 data for CO, OR (2010 shapes only): Metric Geometry and Gerrymandering Group (via Princeton Gerrymandering Project).
 * 2018 data for WA: MIT Election Data Science Lab (via Princeton Gerrymandering Project).
-* 2018 and 2020 data for CA: California Statewide Database.
-* 2016 data for CA (2010 shapes only): California Statewide Database.
+* 2018 data for CA: California Statewide Database.
 * 
 * 2010 shapes have no 2020 election data and no other election data obtained after 2020 shapes were published by the Census Bureau.
 ## Logs
