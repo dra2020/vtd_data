@@ -1,11 +1,17 @@
-Make CSV: DC (election)
+Make Election_Data_DC.v04 (2024-02-01)
+
 Row count: 143
-D_2020_pres: 317323
-R_2020_pres: 18586
-Tot_2020_pres: 344356
-D_2020_sen: 251991
-R_2020_sen: 24168
-Tot_2020_sen: 310464
-D_2016_pres: 282830
-R_2016_pres: 12723
-Tot_2016_pres: 311268
+Totals from Block Data (BData) and CSV Data (CData)
+Field;			BData;	CData;	Diff
+E_16_PRES_Total;	311268;	311268;	0
+E_16_PRES_Dem;	282830;	282830;	0
+E_16_PRES_Rep;	12723;	12723;	0
+E_16-20_COMP_Total;	327645;	327645;	0
+E_16-20_COMP_Dem;	300066;	300066;	0
+E_16-20_COMP_Rep;	15570;	15570;	0
+E_20_PRES_Total;	344356;	344356;	0
+E_20_PRES_Dem;	317323;	317323;	0
+E_20_PRES_Rep;	18586;	18586;	0
+E_20_SEN_Total;	310464;	310464;	0
+E_20_SEN_Dem;	251991;	251991;	0
+E_20_SEN_Rep;	24168;	24168;	0
