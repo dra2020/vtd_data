@@ -1,11 +1,42 @@
-Make CSV: PR (census)
+Make Demographic_Data_PR.v04 (2024-01-31)
+
 Row count: 1417
-Tot 2010 Pop: 0
-Tot 2018 Pop: 0
-Tot 2019 Pop: 0
-Tot 2020 Pop: 3285874
-Tot (adj) 2020 Pop: 0
-Tot 2010 VAP: 0
-Tot 2018 CVAP: 0
-Tot 2019 CVAP: 0
-Tot 2020 VAP: 2724903
+Totals from Block Data (BData) and CSV Data (CData)
+Field;			BData;	CData;	Diff
+T_20_CENS_Total;	3285874;	3285874;	0
+T_20_CENS_White;	24548;	24548;	0
+T_20_CENS_Hispanic;	3249043;	3249043;	0
+T_20_CENS_Black;	574287;	574287;	0
+T_20_CENS_Asian;	8904;	8904;	0
+T_20_CENS_Native;	92894;	92894;	0
+T_20_CENS_Pacific;	4169;	4169;	0
+T_20_ACS_Total;	3255642;	3255642;	0
+T_20_ACS_White;	31715;	31715;	0
+T_20_ACS_Hispanic;	3212625;	3212625;	0
+T_20_ACS_Black;	547012;	547012;	0
+T_20_ACS_Asian;	8450;	8450;	0
+T_20_ACS_Native;	28239;	28239;	0
+T_20_ACS_Pacific;	675;	675;	0
+V_20_VAP_Total;	2724903;	2724903;	0
+V_20_VAP_White;	21575;	21575;	0
+V_20_VAP_Hispanic;	2692743;	2692743;	0
+V_20_VAP_Black;	482340;	482340;	0
+V_20_VAP_Asian;	7208;	7208;	0
+V_20_VAP_Native;	75627;	75627;	0
+V_20_VAP_Pacific;	3352;	3352;	0
+V_20_VAP_NH_Total;	2724903;	2724903;	0
+V_20_VAP_NH_White;	21575;	21575;	0
+V_20_VAP_NH_Hispanic;	2692743;	2692743;	0
+V_20_VAP_NH_BlackAlone;	3785;	3785;	0
+V_20_VAP_NH_AsianAlone;	2392;	2392;	0
+V_20_VAP_NH_NativeAlone;	276;	276;	0
+V_20_VAP_NH_PacificAlone;	69;	69;	0
+V_20_VAP_NH_OtherAlone;	2089;	2089;	0
+V_20_VAP_NH_TwoOrMore;	1974;	1974;	0
+V_20_CVAP_Total;	2603103;	2603103;	0
+V_20_CVAP_White;	26158;	26158;	0
+V_20_CVAP_Hispanic;	2571193;	2571193;	0
+V_20_CVAP_Black;	3747;	3747;	0
+V_20_CVAP_Asian;	1268;	1268;	0
+V_20_CVAP_Native;	173;	173;	0
+V_20_CVAP_Pacific;	0;	0;	0
