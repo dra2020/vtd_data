@@ -1,9 +1,9 @@
 # vtd_data
-This repository contains Census and Election Data, aggregated to 2010 and 2020 voting tabulation districts (VTDs), as CSV. Files are organized by geography (e.g. 2020_VTD) and then by state.
+This repository contains Demographic and Election Data, aggregated to 2010 and 2020 voting tabulation districts (VTDs), as CSV files. The files are organized by geography (e.g. 2020_VTD) and then by state.
 
-**YOU ARE RESPONSIBLE FOR READING AND UNDERSTANDING THE LICENSES FOR THIS DATA.**
+YOU ARE RESPONSIBLE FOR READING AND UNDERSTANDING THE LICENSES FOR THIS DATA, INCLUDING INDIVIDUAL DATASET LICENSES IF ANY.
 
-**ADDITIONALLY YOU AGREE NOT TO SELL ANY OF THIS DATA UNDER ANY CIRCUMSTANCES.**
+YOU AGREE NOT TO SELL ANY OF THIS DATA UNDER ANY CIRCUMSTANCES.
 
 ## 2010 Shapes
 For 2010 Shapes, two CSVs are available for download: one with demographic data and one with election data.
