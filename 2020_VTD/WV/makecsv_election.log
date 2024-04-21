@@ -1,8 +1,14 @@
-Make Election_Data_WV.v04 (2024-02-01)
+Make Election_Data_WV.v02 (2024-04-21)
 
 Row count: 1639
 Totals from Block Data (BData) and CSV Data (CData)
 Field;			BData;	CData;	Diff
+E_08_PRES_Total;	717172;	717172;	0
+E_08_PRES_Dem;	303845;	303845;	0
+E_08_PRES_Rep;	397444;	397444;	0
+E_12_PRES_Total;	654190;	654190;	0
+E_12_PRES_Dem;	237086;	237086;	0
+E_12_PRES_Rep;	417104;	417104;	0
 E_16_PRES_Total;	713049;	713049;	0
 E_16_PRES_Dem;	188792;	188792;	0
 E_16_PRES_Rep;	489371;	489371;	0

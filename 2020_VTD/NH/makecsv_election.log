@@ -1,8 +1,14 @@
-Make Election_Data_NH.v04 (2024-02-01)
+Make Election_Data_NH.v02 (2024-04-21)
 
 Row count: 326
 Totals from Block Data (BData) and CSV Data (CData)
 Field;			BData;	CData;	Diff
+E_08_PRES_Total;	709148;	709148;	0
+E_08_PRES_Dem;	384826;	384826;	0
+E_08_PRES_Rep;	316534;	316534;	0
+E_12_PRES_Total;	698853;	698853;	0
+E_12_PRES_Dem;	369255;	369255;	0
+E_12_PRES_Rep;	329598;	329598;	0
 E_16_PRES_Total;	744296;	744296;	0
 E_16_PRES_Dem;	348526;	348526;	0
 E_16_PRES_Rep;	345790;	345790;	0

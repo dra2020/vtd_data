@@ -1,8 +1,11 @@
-Make Election_Data_ND.v04 (2024-02-01)
+Make Election_Data_ND.v02 (2024-04-21)
 
 Row count: 421
 Totals from Block Data (BData) and CSV Data (CData)
 Field;			BData;	CData;	Diff
+E_08_PRES_Total;	320522;	320522;	0
+E_08_PRES_Dem;	141403;	141403;	0
+E_08_PRES_Rep;	168887;	168887;	0
 E_16_PRES_Total;	344360;	344360;	0
 E_16_PRES_Dem;	93758;	93758;	0
 E_16_PRES_Rep;	216794;	216794;	0
