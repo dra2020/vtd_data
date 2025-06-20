@@ -1,0 +1,11 @@
+Make Election_Data_PR.v06 (2025-06-19)
+
+Row count: 1417
+Totals from Block Data (BData) and CSV Data (CData)
+Field;			BData;	CData;	Diff
+E_16_GOV_Total;	1541025;	1541025;	0
+E_16_GOV_Dem;	614190;	614190;	0
+E_16_GOV_Rep;	660510;	660510;	0
+E_16_CONG_Total;	1413664;	1413664;	0
+E_16_CONG_Dem;	695073;	695073;	0
+E_16_CONG_Rep;	718591;	718591;	0
