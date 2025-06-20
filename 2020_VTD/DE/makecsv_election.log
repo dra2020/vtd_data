@@ -1,4 +1,4 @@
-Make Election_Data_DE.v05 (2024-04-21)
+Make Election_Data_DE.v06 (2025-06-18)
 
 Row count: 412
 Totals from Block Data (BData) and CSV Data (CData)
@@ -36,3 +36,9 @@ E_20_GOV_Rep;	190312;	190312;	0
 E_20_LTG_Total;	482981;	482981;	0
 E_20_LTG_Dem;	285638;	285638;	0
 E_20_LTG_Rep;	197343;	197343;	0
+E_18-24_COMP_Total;	452215;	452215;	0
+E_18-24_COMP_Dem;	267622;	267622;	0
+E_18-24_COMP_Rep;	177721;	177721;	0
+E_24_PRES_Total;	510775;	510775;	0
+E_24_PRES_Dem;	288933;	288933;	0
+E_24_PRES_Rep;	214262;	214262;	0
