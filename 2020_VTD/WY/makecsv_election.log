@@ -1,4 +1,4 @@
-Make Election_Data_WY.v05 (2024-04-21)
+Make Election_Data_WY.v06 (2025-06-19)
 
 Row count: 512
 Totals from Block Data (BData) and CSV Data (CData)
@@ -24,3 +24,9 @@ E_20_PRES_Rep;	193559;	193559;	0
 E_20_SEN_Total;	271937;	271937;	0
 E_20_SEN_Dem;	72766;	72766;	0
 E_20_SEN_Rep;	198100;	198100;	0
+E_18-24_COMP_Total;	234887;	234887;	0
+E_18-24_COMP_Dem;	63570;	63570;	0
+E_18-24_COMP_Rep;	164894;	164894;	0
+E_24_PRES_Total;	269048;	269048;	0
+E_24_PRES_Dem;	69527;	69527;	0
+E_24_PRES_Rep;	192633;	192633;	0
