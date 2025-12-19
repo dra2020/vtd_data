@@ -1,0 +1,5 @@
+*.swp
+.DS_Store
+
+# VS Code project file
+.vscode/
