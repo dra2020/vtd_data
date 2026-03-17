@@ -1,4 +1,4 @@
-Make Demographic_Data_NY.v06 (2025-06-18)
+Make Demographic_Data_NY.v07 (2026-03-17)
 
 Row count: 14191
 Totals from Block Data (BData) and CSV Data (CData)
@@ -104,3 +104,11 @@ V_22_CVAP_Asian;	1066926;	1066926;	0
 V_22_CVAP_Native;	83058;	83058;	0
 V_22_CVAP_Pacific;	5540;	5540;	0
 V_22_CVAP_RemTwoOrMore;	41300;	41300;	0
+V_24_CVAP_Total;	14062714;	14062714;	0
+V_24_CVAP_White;	8534684;	8534684;	0
+V_24_CVAP_Hispanic;	2167751;	2167751;	0
+V_24_CVAP_Black;	2115612;	2115612;	0
+V_24_CVAP_Asian;	1121833;	1121833;	0
+V_24_CVAP_Native;	87309;	87309;	0
+V_24_CVAP_Pacific;	6310;	6310;	0
+V_24_CVAP_RemTwoOrMore;	48218;	48218;	0

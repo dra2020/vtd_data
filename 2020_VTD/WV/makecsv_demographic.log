@@ -1,4 +1,4 @@
-Make Demographic_Data_WV.v06 (2025-06-19)
+Make Demographic_Data_WV.v07 (2026-03-17)
 
 Row count: 1639
 Totals from Block Data (BData) and CSV Data (CData)
@@ -97,3 +97,11 @@ V_22_CVAP_Asian;	10683;	10683;	0
 V_22_CVAP_Native;	11374;	11374;	0
 V_22_CVAP_Pacific;	485;	485;	0
 V_22_CVAP_RemTwoOrMore;	2044;	2044;	0
+V_24_CVAP_Total;	1409052;	1409052;	0
+V_24_CVAP_White;	1303379;	1303379;	0
+V_24_CVAP_Hispanic;	22375;	22375;	0
+V_24_CVAP_Black;	54751;	54751;	0
+V_24_CVAP_Asian;	11404;	11404;	0
+V_24_CVAP_Native;	14681;	14681;	0
+V_24_CVAP_Pacific;	424;	424;	0
+V_24_CVAP_RemTwoOrMore;	2409;	2409;	0

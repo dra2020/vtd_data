@@ -1,4 +1,4 @@
-Make Demographic_Data_RI.v06 (2025-06-19)
+Make Demographic_Data_RI.v07 (2026-03-17)
 
 Row count: 423
 Totals from Block Data (BData) and CSV Data (CData)
@@ -97,3 +97,11 @@ V_22_CVAP_Asian;	23529;	23529;	0
 V_22_CVAP_Native;	7050;	7050;	0
 V_22_CVAP_Pacific;	424;	424;	0
 V_22_CVAP_RemTwoOrMore;	2145;	2145;	0
+V_24_CVAP_Total;	826682;	826682;	0
+V_24_CVAP_White;	642234;	642234;	0
+V_24_CVAP_Hispanic;	96843;	96843;	0
+V_24_CVAP_Black;	53968;	53968;	0
+V_24_CVAP_Asian;	24770;	24770;	0
+V_24_CVAP_Native;	7528;	7528;	0
+V_24_CVAP_Pacific;	732;	732;	0
+V_24_CVAP_RemTwoOrMore;	2376;	2376;	0
