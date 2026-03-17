@@ -1,4 +1,4 @@
-Make Demographic_Data_KY.v06 (2025-06-18)
+Make Demographic_Data_KY.v07 (2026-03-17)
 
 Row count: 3693
 Totals from Block Data (BData) and CSV Data (CData)
@@ -97,3 +97,11 @@ V_22_CVAP_Asian;	38838;	38838;	0
 V_22_CVAP_Native;	26099;	26099;	0
 V_22_CVAP_Pacific;	1503;	1503;	0
 V_22_CVAP_RemTwoOrMore;	5775;	5775;	0
+V_24_CVAP_Total;	3401370;	3401370;	0
+V_24_CVAP_White;	2949136;	2949136;	0
+V_24_CVAP_Hispanic;	87349;	87349;	0
+V_24_CVAP_Black;	276286;	276286;	0
+V_24_CVAP_Asian;	44149;	44149;	0
+V_24_CVAP_Native;	38691;	38691;	0
+V_24_CVAP_Pacific;	1619;	1619;	0
+V_24_CVAP_RemTwoOrMore;	7622;	7622;	0

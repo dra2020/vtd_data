@@ -1,4 +1,4 @@
-Make Demographic_Data_CO.v06 (2025-06-18)
+Make Demographic_Data_CO.v07 (2026-03-17)
 
 Row count: 3108
 Totals from Block Data (BData) and CSV Data (CData)
@@ -104,3 +104,11 @@ V_22_CVAP_Asian;	136118;	136118;	0
 V_22_CVAP_Native;	55812;	55812;	0
 V_22_CVAP_Pacific;	5401;	5401;	0
 V_22_CVAP_RemTwoOrMore;	13217;	13217;	0
+V_24_CVAP_Total;	4355172;	4355172;	0
+V_24_CVAP_White;	3193146;	3193146;	0
+V_24_CVAP_Hispanic;	738933;	738933;	0
+V_24_CVAP_Black;	196003;	196003;	0
+V_24_CVAP_Asian;	151861;	151861;	0
+V_24_CVAP_Native;	57106;	57106;	0
+V_24_CVAP_Pacific;	5583;	5583;	0
+V_24_CVAP_RemTwoOrMore;	16303;	16303;	0
