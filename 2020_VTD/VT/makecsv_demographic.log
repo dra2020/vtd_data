@@ -1,4 +1,4 @@
-Make Demographic_Data_VT.v07 (2026-04-02)
+Make Demographic_Data_VT.v08 (2026-11-02)
 
 Row count: 285
 Totals from Block Data (BData) and CSV Data (CData)
@@ -45,6 +45,13 @@ T_22_ACS_Black;	13723;	13723;	0
 T_22_ACS_Asian;	16265;	16265;	0
 T_22_ACS_Native;	8910;	8910;	0
 T_22_ACS_Pacific;	568;	568;	0
+T_24_ACS_Total;	647106;	647106;	0
+T_24_ACS_White;	582031;	582031;	0
+T_24_ACS_Hispanic;	16545;	16545;	0
+T_24_ACS_Black;	14844;	14844;	0
+T_24_ACS_Asian;	17547;	17547;	0
+T_24_ACS_Native;	9624;	9624;	0
+T_24_ACS_Pacific;	450;	450;	0
 V_10_VAP_Total;	496508;	496508;	0
 V_10_VAP_White;	472559;	472559;	0
 V_10_VAP_Hispanic;	6328;	6328;	0
