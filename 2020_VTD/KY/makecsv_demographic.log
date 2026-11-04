@@ -1,4 +1,4 @@
-Make Demographic_Data_KY.v07 (2026-03-17)
+Make Demographic_Data_KY.v08 (2026-11-02)
 
 Row count: 3693
 Totals from Block Data (BData) and CSV Data (CData)
@@ -45,6 +45,13 @@ T_22_ACS_Black;	437067;	437067;	0
 T_22_ACS_Asian;	93369;	93369;	0
 T_22_ACS_Native;	43369;	43369;	0
 T_22_ACS_Pacific;	6849;	6849;	0
+T_24_ACS_Total;	4534824;	4534824;	0
+T_24_ACS_White;	3698087;	3698087;	0
+T_24_ACS_Hispanic;	226744;	226744;	0
+T_24_ACS_Black;	437271;	437271;	0
+T_24_ACS_Asian;	102824;	102824;	0
+T_24_ACS_Native;	67972;	67972;	0
+T_24_ACS_Pacific;	7842;	7842;	0
 V_10_VAP_Total;	3315993;	3315993;	0
 V_10_VAP_White;	2917516;	2917516;	0
 V_10_VAP_Hispanic;	82887;	82887;	0
